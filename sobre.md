@@ -6,4 +6,4 @@ permalink: /sobre/
 
 # Sobre
 
-_[Lo que pasa cuando me dejo aburrir.]_
+Lo que pasa cuando me dejo aburrir.
