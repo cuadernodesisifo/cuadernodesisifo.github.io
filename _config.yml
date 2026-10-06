@@ -1,0 +1,12 @@
+title: El Cuaderno de Sísifo
+description: Notas y ensayos.
+lang: es
+url: "https://cuadernodesisifo.com"
+baseurl: ""
+permalink: /:year/:title/
+timezone: America/Bogota
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - LEEME.md
