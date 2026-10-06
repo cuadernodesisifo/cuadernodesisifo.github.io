@@ -6,4 +6,4 @@ permalink: /sobre/
 
 # Sobre
 
-_[Escribe aquí, con tus palabras, qué es este cuaderno y por qué se llama así.]_
+_[Lo que pasa cuando me dejo aburrir.]_
